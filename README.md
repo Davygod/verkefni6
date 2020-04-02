@@ -1,1 +1,1 @@
-# verkefni6
+# Verkefni6
