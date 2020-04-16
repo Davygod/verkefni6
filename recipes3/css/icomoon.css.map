@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../ssg-myrecipes/scss/icomoon.scss"
+    ],
+    "names": [],
+    "file": "icomoon.css"
+}
